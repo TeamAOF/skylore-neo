@@ -1,0 +1,1 @@
+.\scripts\mod-list-extractor.exe -i minecraftinstance.json -o mod_list.json
