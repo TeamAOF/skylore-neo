@@ -11,5 +11,7 @@
 !create_mod_list.sh
 !extract_from_cf.bat
 !extract_from_cf.sh
+!setup.sh
+!setup.bat
 
 !mod_list.json

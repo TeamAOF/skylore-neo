@@ -4,4 +4,4 @@ echo "java -jar scripts/InstanceSync.jar mod_list.json mods" >> .git/hooks/post-
 echo "Done setting up hooks"
 echo "Running InstanceSync"
 
-java -jar InstanceSync.jar
+java -jar ./scripts/InstanceSync.jar mod_list.json mods
