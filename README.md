@@ -9,7 +9,7 @@ TODO: Add description of the pack
 Please run every command at the root of the instance. To be able to run InstanceSync.jar you need to have java 21 installed and set as the default.
 
 1. Download one of the instances in the releases.
-2. Run `git reset --hard "@{u}"`, then `git pull` to get the latest changes.
+2. Run `git fetch`, then `git reset --hard "@{u}"` to get the latest changes.
 3. Run the `setup` script in the `scripts` folder:
    - For Windows, run `.bat` files.
    - For Linux, run `.sh` files.
