@@ -1,1 +1,0 @@
-.\scripts\mod-list-creator.exe -i mods -o mod_list.json
