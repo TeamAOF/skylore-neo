@@ -17,6 +17,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "threat_generated",
   "is_long": false,

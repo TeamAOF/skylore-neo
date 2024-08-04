@@ -16,10 +16,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "red",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "all_dot_damage",
   "is_long": false,

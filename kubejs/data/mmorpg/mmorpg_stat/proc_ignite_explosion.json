@@ -20,6 +20,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "proc_ignite_explosion",
   "is_long": true,

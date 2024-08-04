@@ -17,10 +17,11 @@
       "side": "Target"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "green",
   "group": "RESTORATION",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "rejuv_eff_on_self",
   "is_long": false,

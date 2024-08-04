@@ -13,10 +13,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "red",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "total_damage",
   "is_long": false,

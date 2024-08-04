@@ -3,6 +3,7 @@
   "announce_in_chat": true,
   "favor_loot_multi": 1.25,
   "favor_needed": 1000,
+  "favor_per_second": 0.0,
   "guid": "mythic",
   "higher_rar": "",
   "is_unique_item": false,
@@ -18,7 +19,6 @@
     "min": 80
   },
   "map_xp_multi": 1.25,
-  "max_spell_links": 5,
   "min_affixes": 6,
   "min_lvl": 75,
   "min_map_rarity_to_drop": "epic",
@@ -26,7 +26,7 @@
     "total": 100
   },
   "sockets": {
-    "max": 3,
+    "max": 2,
     "min": 2
   },
   "stat_percents": {

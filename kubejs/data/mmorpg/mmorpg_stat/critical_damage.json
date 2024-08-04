@@ -9,7 +9,8 @@
         "on_damage"
       ],
       "ifs": [
-        "is_crit_true"
+        "is_crit_true",
+        "attack_type_is_dot_is_false"
       ],
       "order": "damage_layers",
       "side": "Source"
@@ -19,6 +20,7 @@
   "format": "red",
   "group": "MAIN",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "⚔",
   "id": "critical_damage",
   "is_long": false,

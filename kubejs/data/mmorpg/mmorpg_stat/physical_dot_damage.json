@@ -20,6 +20,7 @@
   "format": "red",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "physical_dot_damage",
   "is_long": false,

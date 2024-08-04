@@ -191,15 +191,15 @@
       "max": 13.5,
       "min": 18.0
     },
-    "style": "str",
+    "style": "int",
     "summonType": "NONE",
     "summon_basic_atk": "pet_basic",
     "swing_arm": true,
     "tags": {
       "tags": [
         "area",
-        "totem",
-        "melee"
+        "magic",
+        "totem"
       ]
     },
     "times_to_cast": 1,

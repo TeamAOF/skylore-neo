@@ -19,6 +19,7 @@
   "format": "red",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "➹",
   "id": "projectile_damage",
   "is_long": false,

@@ -5,6 +5,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "lightning_damage_aura_cost",
   "is_long": false,

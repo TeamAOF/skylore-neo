@@ -7,8 +7,8 @@
     {
       "type": "FLAT",
       "scale_to_lvl": true,
-      "stat": "lightning_resist",
-      "v1": 3.0
+      "stat": "intelligence",
+      "v1": 1.0
     }
   ],
   "on_jewelry_stats": [
@@ -23,8 +23,8 @@
     {
       "type": "FLAT",
       "scale_to_lvl": true,
-      "stat": "energy_on_hit_hit",
-      "v1": 0.6
+      "stat": "critical_damage",
+      "v1": 3.0
     }
   ],
   "perc_upgrade_chance": 75,

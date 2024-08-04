@@ -20,6 +20,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "physical_dmg_when_target_low_hp",
   "is_long": true,

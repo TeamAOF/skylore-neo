@@ -20,6 +20,7 @@
   "format": "aqua",
   "group": "WEAPON",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "ele_crossbow_damage",
   "is_long": false,

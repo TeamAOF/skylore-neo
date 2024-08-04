@@ -19,6 +19,7 @@
   "format": "aqua",
   "group": "ELEMENTAL",
   "gui_group": "ELE_DAMAGE",
+  "has_softcap": false,
   "icon": "★",
   "id": "all_water_damage",
   "is_long": false,

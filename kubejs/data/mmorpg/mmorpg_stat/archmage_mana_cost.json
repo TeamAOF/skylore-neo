@@ -19,6 +19,7 @@
   "format": "aqua",
   "group": "MAIN",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "⚔",
   "id": "archmage_mana_cost",
   "is_long": true,

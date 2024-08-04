@@ -19,6 +19,7 @@
   "format": "red",
   "group": "MAIN",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "⚔",
   "id": "non_crit_damage",
   "is_long": false,

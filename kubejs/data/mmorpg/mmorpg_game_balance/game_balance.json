@@ -19,11 +19,13 @@
   "MAX_BONUS_SPELL_LEVELS": 5,
   "MAX_LEVEL": 100,
   "MIN_CHAIN_DMG": 0.2,
+  "MIN_SPELL_COOLDOWN_MULTI": 0.2,
   "MOB_DAMAGE_SCALING": {
     "base_scaling": 1.0,
     "cap_to_max_lvl": false,
-    "per_level_scaling": 0.5
+    "per_level_scaling": 0.25
   },
+  "MOB_DMG_MULTI_PER_MAP_RES_REQ_LACKING": 0.05,
   "NORMAL_STAT_SCALING": {
     "base_scaling": 1.0,
     "cap_to_max_lvl": false,

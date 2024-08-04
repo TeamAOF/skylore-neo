@@ -6,7 +6,7 @@
   "max_lvls": 1,
   "stats": [
     {
-      "type": "MORE",
+      "type": "FLAT",
       "scale_to_lvl": false,
       "stat": "dot_lifesteal",
       "v1": 10.0

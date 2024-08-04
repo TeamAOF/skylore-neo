@@ -19,6 +19,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "cast_speed_to_cooldown_cdr",
   "is_long": false,

@@ -13,10 +13,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "max_total_summons",
   "is_long": false,

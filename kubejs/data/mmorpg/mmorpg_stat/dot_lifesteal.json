@@ -15,10 +15,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "red",
   "group": "RESTORATION",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "dot_lifesteal",
   "is_long": false,

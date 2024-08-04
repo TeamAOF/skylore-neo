@@ -20,6 +20,7 @@
   "format": "aqua",
   "group": "ELEMENTAL",
   "gui_group": "ELE_SPELL_DAMAGE",
+  "has_softcap": false,
   "icon": "★",
   "id": "spell_physical_damage",
   "is_long": false,

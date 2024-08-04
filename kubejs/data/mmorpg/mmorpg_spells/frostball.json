@@ -223,6 +223,7 @@
       "tags": [
         "magic",
         "damage",
+        "cast_speed_to_cooldown",
         "cold",
         "projectile"
       ]

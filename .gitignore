@@ -3,6 +3,15 @@
 !.gitignore
 !kubejs/**
 !shaderpacks/**
+!config/mmorpg-client.toml
+!config/fancymenu/**
+!minemenu/**
+!config/starterstructure/schematics/**
+!config/alexsmobs/**
+!config/starterstructure.json5
+!config/alexsmobs.toml
+!WIPmods/**
+!config/heracles/**
 
 # scripts
 !scripts/**
@@ -10,7 +19,10 @@
 !create_mod_list.sh
 !extract_from_cf.bat
 !extract_from_cf.sh
-!setup.sh
-!setup.bat
+!sync.sh
+!sync.bat
 
 !mod_list.json
+kubejs/server_scripts/orestages.js
+
+kubejs/client_scripts/modlist.js

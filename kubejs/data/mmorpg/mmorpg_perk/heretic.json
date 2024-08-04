@@ -6,13 +6,13 @@
   "max_lvls": 1,
   "stats": [
     {
-      "type": "MORE",
+      "type": "FLAT",
       "scale_to_lvl": false,
       "stat": "totem_cdr",
       "v1": 50.0
     },
     {
-      "type": "MORE",
+      "type": "FLAT",
       "scale_to_lvl": false,
       "stat": "totem_duration",
       "v1": 20.0

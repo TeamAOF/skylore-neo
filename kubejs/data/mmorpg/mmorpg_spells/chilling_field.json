@@ -11,8 +11,8 @@
                 "motion": "None",
                 "particle_count": 5.0,
                 "particle_type": "minecraft:cloud",
-                "radius": 3.5,
-                "shape": "CIRCLE_2D",
+                "radius": 3.0,
+                "shape": "CIRCLE_2D_EDGE",
                 "y_rand": 0.2
               }
             }
@@ -30,8 +30,8 @@
                 "motion": "None",
                 "particle_count": 30.0,
                 "particle_type": "minecraft:snowflake",
-                "radius": 3.5,
-                "shape": "CIRCLE_2D",
+                "radius": 2.5,
+                "shape": "CIRCLE_2D_EDGE",
                 "y_rand": 0.2
               }
             }
@@ -47,7 +47,7 @@
               "map": {
                 "pitch": 1.5,
                 "sound": "minecraft:entity.horse.breathe",
-                "volume": 1.1
+                "volume": 0.8
               }
             }
           ],

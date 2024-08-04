@@ -168,6 +168,7 @@
     "tags": {
       "tags": [
         "damage",
+        "cast_speed_to_cooldown",
         "ranged",
         "chaining",
         "physical",

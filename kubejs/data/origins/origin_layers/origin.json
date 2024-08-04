@@ -1,0 +1,14 @@
+{
+  "replace": true,
+  "origins": [
+  "skylore:indrevian",
+  "skylore:fortis",
+  "skylore:automaton",
+  "skylore:beryl",
+  "skylore:laevis",
+  "skylore:human",
+  "skylore:tenebris",
+  "skylore:enoki"
+  ],
+  "name": "Species"
+}

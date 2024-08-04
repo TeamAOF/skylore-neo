@@ -25,7 +25,7 @@
           "targets": []
         }
       ],
-      "expire": [
+      "explode": [
         {
           "acts": [
             {
@@ -100,7 +100,7 @@
             {
               "type": "specific_action",
               "map": {
-                "specific_action": "expire"
+                "specific_action": "explode"
               }
             }
           ],

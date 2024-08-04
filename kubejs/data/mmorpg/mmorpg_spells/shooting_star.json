@@ -193,6 +193,7 @@
     "tags": {
       "tags": [
         "magic",
+        "cast_speed_to_cooldown",
         "heal",
         "projectile"
       ]

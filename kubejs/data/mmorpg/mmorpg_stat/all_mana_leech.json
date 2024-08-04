@@ -15,10 +15,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "all_mana_leech",
   "is_long": true,

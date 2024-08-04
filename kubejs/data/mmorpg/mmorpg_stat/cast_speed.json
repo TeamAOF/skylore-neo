@@ -3,19 +3,6 @@
   "effect": [
     {
       "effects": [
-        "apply_cd_as_cast_time"
-      ],
-      "events": [
-        "on_spell_stat_calc"
-      ],
-      "ifs": [
-        "spell_has_tag_cast_speed_to_cooldown"
-      ],
-      "order": "data_modification",
-      "side": "Source"
-    },
-    {
-      "effects": [
         "decrease_cast_ticks_num"
       ],
       "events": [
@@ -26,12 +13,26 @@
       ],
       "order": "data_modification",
       "side": "Source"
+    },
+    {
+      "effects": [
+        "apply_cd_as_cast_time"
+      ],
+      "events": [
+        "on_spell_stat_calc"
+      ],
+      "ifs": [
+        "spell_has_tag_cast_speed_to_cooldown"
+      ],
+      "order": "data_modification",
+      "side": "Source"
     }
   ],
   "ele": "Physical",
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "cast_speed",
   "is_long": false,

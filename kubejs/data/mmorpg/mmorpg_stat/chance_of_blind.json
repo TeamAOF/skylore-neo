@@ -21,6 +21,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "chance_of_blind",
   "is_long": true,

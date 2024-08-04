@@ -27,5 +27,6 @@
     }
   ],
   "tier": 1,
+  "uses_unlucky_ran": true,
   "weight": 0
 }

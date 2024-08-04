@@ -16,10 +16,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "green",
   "group": "RESTORATION",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "out_of_combat_regen",
   "is_long": false,

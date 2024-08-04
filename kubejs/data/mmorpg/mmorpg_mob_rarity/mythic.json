@@ -1,8 +1,8 @@
 {
   "affixes": 3,
-  "dmg_multi": 7.0,
+  "dmg_multi": 3.0,
   "exp_multi": 5.0,
-  "extra_hp_multi": 13.0,
+  "extra_hp_multi": 9.0,
   "force_custom_hp": -1,
   "id": "mythic",
   "loot_multi": 5.0,

@@ -19,6 +19,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "blood_on_is_blocked",
   "is_long": true,

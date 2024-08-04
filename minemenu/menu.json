@@ -1,0 +1,86 @@
+{
+  "main": {
+    "3": {
+      "title": "Curios",
+      "icon": {
+        "stack": "{Count:1b,id:\"botania:bauble_box\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.curios.open.desc",
+          "toggle": false
+        }
+      }
+    },
+    "4": {
+      "title": "Map",
+      "icon": {
+        "stack": "{Count:1b,id:\"minecraft:filled_map\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.ftbchunks.map",
+          "toggle": false
+        }
+      }
+    },
+    "5": {
+      "title": "Tempad (when equipped)",
+      "icon": {
+        "stack": "{Count:1b,id:\"tempad:tempad\",tag:{}}"
+      },
+      "action": {
+        "key": {
+          "key": "key.tempad.shortcut",
+          "toggle": false
+        }
+      }
+    },
+    "6": {
+      "title": "Advancements",
+      "icon": {
+        "stack": "{Count:1b,id:\"createdeco:gold_coin\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.advancements",
+          "toggle": false
+        }
+      }
+    },
+    "7": {
+      "title": "Research",
+      "icon": {
+        "stack": "{Count:1b,id:\"mmorpg:potions/reset_spells\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.ftbquests.quests",
+          "toggle": false
+        }
+      }
+    },
+    "8": {
+      "title": "Settings",
+      "icon": {
+        "stack": "{Count:1b,id:\"create:large_cogwheel\"}"
+      },
+      "action": {
+        "category": "Settings"
+      }
+    },
+    "9": {
+      "title": "HUB",
+      "icon": {
+        "stack": "{Count:1b,id:\"mmorpg:skill_gems/skill/dex\"}"
+      },
+      "action": {
+        "key": {
+          "key": "hub_screen",
+          "toggle": false
+        }
+      }
+    }
+  },
+  "Settings": {}
+}

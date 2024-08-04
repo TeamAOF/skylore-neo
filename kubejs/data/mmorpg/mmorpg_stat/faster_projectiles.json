@@ -19,6 +19,7 @@
   "format": "green",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "➹",
   "id": "faster_projectiles",
   "is_long": false,

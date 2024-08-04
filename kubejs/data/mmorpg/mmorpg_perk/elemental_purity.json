@@ -6,16 +6,16 @@
   "max_lvls": 1,
   "stats": [
     {
-      "type": "FLAT",
+      "type": "MORE",
       "scale_to_lvl": false,
       "stat": "all_elemental_damage",
       "v1": 25.0
     },
     {
-      "type": "FLAT",
+      "type": "MORE",
       "scale_to_lvl": false,
       "stat": "all_physical_damage",
-      "v1": -100.0
+      "v1": -50.0
     }
   ]
 }

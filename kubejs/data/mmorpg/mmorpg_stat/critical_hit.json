@@ -9,7 +9,8 @@
         "on_damage"
       ],
       "ifs": [
-        "random_roll"
+        "random_roll",
+        "attack_type_is_dot_is_false"
       ],
       "order": "first",
       "side": "Source"
@@ -19,6 +20,7 @@
   "format": "yellow",
   "group": "MAIN",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "⚔",
   "id": "critical_hit",
   "is_long": false,

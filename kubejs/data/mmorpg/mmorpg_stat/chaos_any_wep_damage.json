@@ -20,6 +20,7 @@
   "format": "aqua",
   "group": "WEAPON",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "chaos_any_wep_damage",
   "is_long": false,

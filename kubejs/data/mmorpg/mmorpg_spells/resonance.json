@@ -255,6 +255,7 @@
         "song",
         "magic",
         "damage",
+        "cast_speed_to_cooldown",
         "physical",
         "projectile"
       ]

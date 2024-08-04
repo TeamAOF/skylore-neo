@@ -3,6 +3,7 @@
   "announce_in_chat": true,
   "favor_loot_multi": 1.0,
   "favor_needed": 0,
+  "favor_per_second": 0.0,
   "guid": "unique",
   "higher_rar": "",
   "is_unique_item": true,
@@ -18,7 +19,6 @@
     "min": 0
   },
   "map_xp_multi": 1.0,
-  "max_spell_links": 1,
   "min_affixes": 0,
   "min_lvl": 0,
   "min_map_rarity_to_drop": "common",
@@ -30,8 +30,8 @@
     "min": 1
   },
   "stat_percents": {
-    "max": 0,
-    "min": 0
+    "max": 100,
+    "min": 50
   },
   "text_format": "RED",
   "weight": 25

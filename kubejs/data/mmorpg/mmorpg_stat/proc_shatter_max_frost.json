@@ -23,6 +23,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "proc_shatter_max_frost",
   "is_long": true,

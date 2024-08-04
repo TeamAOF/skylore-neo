@@ -193,6 +193,7 @@
       "tags": [
         "magic",
         "damage",
+        "cast_speed_to_cooldown",
         "chaos",
         "projectile"
       ]

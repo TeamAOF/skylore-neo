@@ -12,7 +12,7 @@
       "v1": 20.0
     },
     {
-      "type": "MORE",
+      "type": "FLAT",
       "scale_to_lvl": false,
       "stat": "inc_effect_of_curse_buff_given",
       "v1": -20.0

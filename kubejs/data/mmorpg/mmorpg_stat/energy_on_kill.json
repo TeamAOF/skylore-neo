@@ -13,10 +13,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "aqua",
   "group": "RESTORATION",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "energy_on_kill",
   "is_long": false,

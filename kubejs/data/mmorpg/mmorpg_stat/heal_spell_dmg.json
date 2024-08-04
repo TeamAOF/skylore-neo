@@ -19,6 +19,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "heal_spell_dmg",
   "is_long": false,

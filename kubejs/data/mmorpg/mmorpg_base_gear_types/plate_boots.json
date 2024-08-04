@@ -3,7 +3,7 @@
     {
       "type": "FLAT",
       "max": 7.5,
-      "min": 3.0,
+      "min": 5.0,
       "stat": "armor"
     }
   ],
@@ -42,18 +42,6 @@
       "armor_stat"
     ]
   },
-  "weapon_type": {
-    "can_dual_wield": false,
-    "damage_validity_check": {
-      "contains_in_dmg_id": [],
-      "source_check": "DIRECT_ATTACK",
-      "tag_and_id_check": "ANY",
-      "valid_proj_dmg_id": []
-    },
-    "id": "none",
-    "isProjectile": false,
-    "range": "MELEE",
-    "style": "STR"
-  },
+  "weapon_type": "none",
   "weight": 1000
 }

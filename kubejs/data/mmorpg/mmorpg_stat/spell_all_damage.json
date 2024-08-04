@@ -16,10 +16,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "aqua",
   "group": "ELEMENTAL",
   "gui_group": "ELE_SPELL_DAMAGE",
+  "has_softcap": false,
   "icon": "★",
   "id": "spell_all_damage",
   "is_long": false,

@@ -17,10 +17,11 @@
       "side": "Source"
     }
   ],
-  "ele": "NONE",
+  "ele": "ALL",
   "format": "yellow",
   "group": "RESTORATION",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "increase_healing",
   "is_long": false,

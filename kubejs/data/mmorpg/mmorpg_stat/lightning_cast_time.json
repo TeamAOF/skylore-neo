@@ -19,6 +19,7 @@
   "format": "aqua",
   "group": "Misc",
   "gui_group": "NONE",
+  "has_softcap": false,
   "icon": "★",
   "id": "lightning_cast_time",
   "is_long": false,

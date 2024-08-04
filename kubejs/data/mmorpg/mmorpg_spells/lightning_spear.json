@@ -213,6 +213,7 @@
         "lightning",
         "magic",
         "damage",
+        "cast_speed_to_cooldown",
         "projectile"
       ]
     },
